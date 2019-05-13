@@ -1,4 +1,4 @@
 # SBR
-a generic and reusable statistical business register
+This will be the URL of a reusable Statistical business register to be used in National Statistical offices.
 
-Coming soon to a computer near you...
+Estimated release date is 1st of August 2019
