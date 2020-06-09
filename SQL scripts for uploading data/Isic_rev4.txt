@@ -1,0 +1,769 @@
+﻿Code	Description	F3	F4
+A	Agriculture, forestry and fishing	A	NULL
+01	Crop and animal production, hunting and related service activities	A	NULL
+011	Growing of non-perennial crops	A	NULL
+0111	Growing of cereals (except rice), leguminous crops and oil seeds	A	NULL
+0112	Growing of rice	A	NULL
+0113	Growing of vegetables and melons, roots and tubers	A	NULL
+0114	Growing of sugar cane	A	NULL
+0115	Growing of tobacco	A	NULL
+0116	Growing of fibre crops	A	NULL
+0119	Growing of other non-perennial crops	A	NULL
+012	Growing of perennial crops	A	NULL
+0121	Growing of grapes	A	NULL
+0122	Growing of tropical and subtropical fruits	A	NULL
+0123	Growing of citrus fruits	A	NULL
+0124	Growing of pome fruits and stone fruits	A	NULL
+0125	Growing of other tree and bush fruits and nuts	A	NULL
+0126	Growing of oleaginous fruits	A	NULL
+0127	Growing of beverage crops	A	NULL
+0128	Growing of spices, aromatic, drug and pharmaceutical crops	A	NULL
+0129	Growing of other perennial crops	A	NULL
+013	Plant propagation	A	NULL
+0130	Plant propagation	A	NULL
+014	Animal production	A	NULL
+0141	Raising of cattle and buffaloes	A	NULL
+0142	Raising of horses and other equines	A	NULL
+0143	Raising of camels and camelids	A	NULL
+0144	Raising of sheep and goats	A	NULL
+0145	Raising of swine/pigs	A	NULL
+0146	Raising of poultry	A	NULL
+0149	Raising of other animals	A	NULL
+015	Mixed farming	A	NULL
+0150	Mixed farming	A	NULL
+016	Support activities to agriculture and post-harvest crop activities	A	NULL
+0161	Support activities for crop production	A	NULL
+0162	Support activities for animal production	A	NULL
+0163	Post-harvest crop activities	A	NULL
+0164	Seed processing for propagation	A	NULL
+017	Hunting, trapping and related service activities	A	NULL
+0170	Hunting, trapping and related service activities	A	NULL
+02	Forestry and logging	A	NULL
+021	Silviculture and other forestry activities	A	NULL
+0210	Silviculture and other forestry activities	A	NULL
+022	Logging	A	NULL
+0220	Logging	A	NULL
+023	Gathering of non-wood forest products	A	NULL
+0230	Gathering of non-wood forest products	A	NULL
+024	Support services to forestry	A	NULL
+0240	Support services to forestry	A	NULL
+03	Fishing and aquaculture	A	NULL
+031	Fishing	A	NULL
+0311	Marine fishing	A	NULL
+0312	Freshwater fishing	A	NULL
+032	Aquaculture	A	NULL
+0321	Marine aquaculture	A	NULL
+0322	Freshwater aquaculture	A	NULL
+B	Mining and quarrying	B	NULL
+05	Mining of coal and lignite	B	NULL
+051	Mining of hard coal	B	NULL
+0510	Mining of hard coal	B	NULL
+052	Mining of lignite	B	NULL
+0520	Mining of lignite	B	NULL
+06	Extraction of crude petroleum and natural gas	B	NULL
+061	Extraction of crude petroleum	B	NULL
+0610	Extraction of crude petroleum	B	NULL
+062	Extraction of natural gas	B	NULL
+0620	Extraction of natural gas	B	NULL
+07	Mining of metal ores	B	NULL
+071	Mining of iron ores	B	NULL
+0710	Mining of iron ores	B	NULL
+072	Mining of non-ferrous metal ores	B	NULL
+0721	Mining of uranium and thorium ores	B	NULL
+0729	Mining of other non-ferrous metal ores	B	NULL
+08	Other mining and quarrying	B	NULL
+081	Quarrying of stone, sand and clay	B	NULL
+0810	Quarrying of stone, sand and clay	B	NULL
+089	Mining and quarrying n.e.c.	B	NULL
+0891	Mining of chemical and fertilizer minerals	B	NULL
+0892	Extraction of peat	B	NULL
+0893	Extraction of salt	B	NULL
+0899	Other mining and quarrying n.e.c.	B	NULL
+09	Mining support service activities	B	NULL
+091	Support activities for petroleum and natural gas extraction	B	NULL
+0910	Support activities for petroleum and natural gas extraction	B	NULL
+099	Support activities for other mining and quarrying	B	NULL
+0990	Support activities for other mining and quarrying	B	NULL
+C	Manufacturing	C	NULL
+10	Manufacture of food products	C	NULL
+101	Processing and preserving of meat	C	NULL
+1010	Processing and preserving of meat	C	NULL
+102	Processing and preserving of fish, crustaceans and molluscs	C	NULL
+1020	Processing and preserving of fish, crustaceans and molluscs	C	NULL
+103	Processing and preserving of fruit and vegetables	C	NULL
+1030	Processing and preserving of fruit and vegetables	C	NULL
+104	Manufacture of vegetable and animal oils and fats	C	NULL
+1040	Manufacture of vegetable and animal oils and fats	C	NULL
+105	Manufacture of dairy products	C	NULL
+1050	Manufacture of dairy products	C	NULL
+106	Manufacture of grain mill products, starches and starch products	C	NULL
+1061	Manufacture of grain mill products	C	NULL
+1062	Manufacture of starches and starch products	C	NULL
+107	Manufacture of other food products	C	NULL
+1071	Manufacture of bakery products	C	NULL
+1072	Manufacture of sugar	C	NULL
+1073	Manufacture of cocoa, chocolate and sugar confectionery	C	NULL
+1074	Manufacture of macaroni, noodles, couscous and similar farinaceous products	C	NULL
+1075	Manufacture of prepared meals and dishes	C	NULL
+1079	Manufacture of other food products n.e.c.	C	NULL
+108	Manufacture of prepared animal feeds	C	NULL
+1080	Manufacture of prepared animal feeds	C	NULL
+11	Manufacture of beverages	C	NULL
+110	Manufacture of beverages	C	NULL
+1101	Distilling, rectifying and blending of spirits	C	NULL
+1102	Manufacture of wines	C	NULL
+1103	Manufacture of malt liquors and malt	C	NULL
+1104	Manufacture of soft drinks; production of mineral waters and other bottled waters	C	NULL
+12	Manufacture of tobacco products	C	NULL
+120	Manufacture of tobacco products	C	NULL
+1200	Manufacture of tobacco products	C	NULL
+13	Manufacture of textiles	C	NULL
+131	Spinning, weaving and finishing of textiles	C	NULL
+1311	Preparation and spinning of textile fibres	C	NULL
+1312	Weaving of textiles	C	NULL
+1313	Finishing of textiles	C	NULL
+139	Manufacture of other textiles	C	NULL
+1391	Manufacture of knitted and crocheted fabrics	C	NULL
+1392	Manufacture of made-up textile articles, except apparel	C	NULL
+1393	Manufacture of carpets and rugs	C	NULL
+1394	Manufacture of cordage, rope, twine and netting	C	NULL
+1399	Manufacture of other textiles n.e.c.	C	NULL
+14	Manufacture of wearing apparel	C	NULL
+141	Manufacture of wearing apparel, except fur apparel	C	NULL
+1410	Manufacture of wearing apparel, except fur apparel	C	NULL
+142	Manufacture of articles of fur	C	NULL
+1420	Manufacture of articles of fur	C	NULL
+143	Manufacture of knitted and crocheted apparel	C	NULL
+1430	Manufacture of knitted and crocheted apparel	C	NULL
+15	Manufacture of leather and related products	C	NULL
+151	Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur	C	NULL
+1511	Tanning and dressing of leather; dressing and dyeing of fur	C	NULL
+1512	Manufacture of luggage, handbags and the like, saddlery and harness	C	NULL
+152	Manufacture of footwear	C	NULL
+1520	Manufacture of footwear	C	NULL
+16	Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials	C	NULL
+161	Sawmilling and planing of wood	C	NULL
+1610	Sawmilling and planing of wood	C	NULL
+162	Manufacture of products of wood, cork, straw and plaiting materials	C	NULL
+1621	Manufacture of veneer sheets and wood-based panels	C	NULL
+1622	Manufacture of builders' carpentry and joinery	C	NULL
+1623	Manufacture of wooden containers	C	NULL
+1629	Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials	C	NULL
+17	Manufacture of paper and paper products	C	NULL
+170	Manufacture of paper and paper products	C	NULL
+1701	Manufacture of pulp, paper and paperboard	C	NULL
+1702	Manufacture of corrugated paper and paperboard and of containers of paper and paperboard	C	NULL
+1709	Manufacture of other articles of paper and paperboard	C	NULL
+18	Printing and reproduction of recorded media	C	NULL
+181	Printing and service activities related to printing	C	NULL
+1811	Printing	C	NULL
+1812	Service activities related to printing	C	NULL
+182	Reproduction of recorded media	C	NULL
+1820	Reproduction of recorded media	C	NULL
+19	Manufacture of coke and refined petroleum products	C	NULL
+191	Manufacture of coke oven products	C	NULL
+1910	Manufacture of coke oven products	C	NULL
+192	Manufacture of refined petroleum products	C	NULL
+1920	Manufacture of refined petroleum products	C	NULL
+20	Manufacture of chemicals and chemical products	C	NULL
+201	Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms	C	NULL
+2011	Manufacture of basic chemicals	C	NULL
+2012	Manufacture of fertilizers and nitrogen compounds	C	NULL
+2013	Manufacture of plastics and synthetic rubber in primary forms	C	NULL
+202	Manufacture of other chemical products	C	NULL
+2021	Manufacture of pesticides and other agrochemical products	C	NULL
+2022	Manufacture of paints, varnishes and similar coatings, printing ink and mastics	C	NULL
+2023	Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations	C	NULL
+2029	Manufacture of other chemical products n.e.c.	C	NULL
+203	Manufacture of man-made fibres	C	NULL
+2030	Manufacture of man-made fibres	C	NULL
+21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	C	NULL
+210	Manufacture of pharmaceuticals, medicinal chemical and botanical products	C	NULL
+2100	Manufacture of pharmaceuticals, medicinal chemical and botanical products	C	NULL
+22	Manufacture of rubber and plastics products	C	NULL
+221	Manufacture of rubber products	C	NULL
+2211	Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres	C	NULL
+2219	Manufacture of other rubber products	C	NULL
+222	Manufacture of plastics products	C	NULL
+2220	Manufacture of plastics products	C	NULL
+23	Manufacture of other non-metallic mineral products	C	NULL
+231	Manufacture of glass and glass products	C	NULL
+2310	Manufacture of glass and glass products	C	NULL
+239	Manufacture of non-metallic mineral products n.e.c.	C	NULL
+2391	Manufacture of refractory products	C	NULL
+2392	Manufacture of clay building materials	C	NULL
+2393	Manufacture of other porcelain and ceramic products	C	NULL
+2394	Manufacture of cement, lime and plaster	C	NULL
+2395	Manufacture of articles of concrete, cement and plaster	C	NULL
+2396	Cutting, shaping and finishing of stone	C	NULL
+2399	Manufacture of other non-metallic mineral products n.e.c.	C	NULL
+24	Manufacture of basic metals	C	NULL
+241	Manufacture of basic iron and steel	C	NULL
+2410	Manufacture of basic iron and steel	C	NULL
+242	Manufacture of basic precious and other non-ferrous metals	C	NULL
+2420	Manufacture of basic precious and other non-ferrous metals	C	NULL
+243	Casting of metals	C	NULL
+2431	Casting of iron and steel	C	NULL
+2432	Casting of non-ferrous metals	C	NULL
+25	Manufacture of fabricated metal products, except machinery and equipment	C	NULL
+251	Manufacture of structural metal products, tanks, reservoirs and steam generators	C	NULL
+2511	Manufacture of structural metal products	C	NULL
+2512	Manufacture of tanks, reservoirs and containers of metal	C	NULL
+2513	Manufacture of steam generators, except central heating hot water boilers	C	NULL
+252	Manufacture of weapons and ammunition	C	NULL
+2520	Manufacture of weapons and ammunition	C	NULL
+259	Manufacture of other fabricated metal products; metalworking service activities	C	NULL
+2591	Forging, pressing, stamping and roll-forming of metal; powder metallurgy	C	NULL
+2592	Treatment and coating of metals; machining	C	NULL
+2593	Manufacture of cutlery, hand tools and general hardware	C	NULL
+2599	Manufacture of other fabricated metal products n.e.c.	C	NULL
+26	Manufacture of computer, electronic and optical products	C	NULL
+261	Manufacture of electronic components and boards	C	NULL
+2610	Manufacture of electronic components and boards	C	NULL
+262	Manufacture of computers and peripheral equipment	C	NULL
+2620	Manufacture of computers and peripheral equipment	C	NULL
+263	Manufacture of communication equipment	C	NULL
+2630	Manufacture of communication equipment	C	NULL
+264	Manufacture of consumer electronics	C	NULL
+2640	Manufacture of consumer electronics	C	NULL
+265	Manufacture of measuring, testing, navigating and control equipment; watches and clocks	C	NULL
+2651	Manufacture of measuring, testing, navigating and control equipment	C	NULL
+2652	Manufacture of watches and clocks	C	NULL
+266	Manufacture of irradiation, electromedical and electrotherapeutic equipment	C	NULL
+2660	Manufacture of irradiation, electromedical and electrotherapeutic equipment	C	NULL
+267	Manufacture of optical instruments and photographic equipment	C	NULL
+2670	Manufacture of optical instruments and photographic equipment	C	NULL
+268	Manufacture of magnetic and optical media	C	NULL
+2680	Manufacture of magnetic and optical media	C	NULL
+27	Manufacture of electrical equipment	C	NULL
+271	Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus	C	NULL
+2710	Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus	C	NULL
+272	Manufacture of batteries and accumulators	C	NULL
+2720	Manufacture of batteries and accumulators	C	NULL
+273	Manufacture of wiring and wiring devices	C	NULL
+2731	Manufacture of fibre optic cables	C	NULL
+2732	Manufacture of other electronic and electric wires and cables	C	NULL
+2733	Manufacture of wiring devices	C	NULL
+274	Manufacture of electric lighting equipment	C	NULL
+2740	Manufacture of electric lighting equipment	C	NULL
+275	Manufacture of domestic appliances	C	NULL
+2750	Manufacture of domestic appliances	C	NULL
+279	Manufacture of other electrical equipment	C	NULL
+2790	Manufacture of other electrical equipment	C	NULL
+28	Manufacture of machinery and equipment n.e.c.	C	NULL
+281	Manufacture of general-purpose machinery	C	NULL
+2811	Manufacture of engines and turbines, except aircraft, vehicle and cycle engines	C	NULL
+2812	Manufacture of fluid power equipment	C	NULL
+2813	Manufacture of other pumps, compressors, taps and valves	C	NULL
+2814	Manufacture of bearings, gears, gearing and driving elements	C	NULL
+2815	Manufacture of ovens, furnaces and furnace burners	C	NULL
+2816	Manufacture of lifting and handling equipment	C	NULL
+2817	Manufacture of office machinery and equipment (except computers and peripheral equipment)	C	NULL
+2818	Manufacture of power-driven hand tools	C	NULL
+2819	Manufacture of other general-purpose machinery	C	NULL
+282	Manufacture of special-purpose machinery	C	NULL
+2821	Manufacture of agricultural and forestry machinery	C	NULL
+2822	Manufacture of metal-forming machinery and machine tools	C	NULL
+2823	Manufacture of machinery for metallurgy	C	NULL
+2824	Manufacture of machinery for mining, quarrying and construction	C	NULL
+2825	Manufacture of machinery for food, beverage and tobacco processing	C	NULL
+2826	Manufacture of machinery for textile, apparel and leather production	C	NULL
+2829	Manufacture of other special-purpose machinery	C	NULL
+29	Manufacture of motor vehicles, trailers and semi-trailers	C	NULL
+291	Manufacture of motor vehicles	C	NULL
+2910	Manufacture of motor vehicles	C	NULL
+292	Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers	C	NULL
+2920	Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers	C	NULL
+293	Manufacture of parts and accessories for motor vehicles	C	NULL
+2930	Manufacture of parts and accessories for motor vehicles	C	NULL
+30	Manufacture of other transport equipment	C	NULL
+301	Building of ships and boats	C	NULL
+3011	Building of ships and floating structures	C	NULL
+3012	Building of pleasure and sporting boats	C	NULL
+302	Manufacture of railway locomotives and rolling stock	C	NULL
+3020	Manufacture of railway locomotives and rolling stock	C	NULL
+303	Manufacture of air and spacecraft and related machinery	C	NULL
+3030	Manufacture of air and spacecraft and related machinery	C	NULL
+304	Manufacture of military fighting vehicles	C	NULL
+3040	Manufacture of military fighting vehicles	C	NULL
+309	Manufacture of transport equipment n.e.c.	C	NULL
+3091	Manufacture of motorcycles	C	NULL
+3092	Manufacture of bicycles and invalid carriages	C	NULL
+3099	Manufacture of other transport equipment n.e.c.	C	NULL
+31	Manufacture of furniture	C	NULL
+310	Manufacture of furniture	C	NULL
+3100	Manufacture of furniture	C	NULL
+32	Other manufacturing	C	NULL
+321	Manufacture of jewellery, bijouterie and related articles	C	NULL
+3211	Manufacture of jewellery and related articles	C	NULL
+3212	Manufacture of imitation jewellery and related articles	C	NULL
+322	Manufacture of musical instruments	C	NULL
+3220	Manufacture of musical instruments	C	NULL
+323	Manufacture of sports goods	C	NULL
+3230	Manufacture of sports goods	C	NULL
+324	Manufacture of games and toys	C	NULL
+3240	Manufacture of games and toys	C	NULL
+325	Manufacture of medical and dental instruments and supplies	C	NULL
+3250	Manufacture of medical and dental instruments and supplies	C	NULL
+329	Other manufacturing n.e.c.	C	NULL
+3290	Other manufacturing n.e.c.	C	NULL
+33	Repair and installation of machinery and equipment	C	NULL
+331	Repair of fabricated metal products, machinery and equipment	C	NULL
+3311	Repair of fabricated metal products	C	NULL
+3312	Repair of machinery	C	NULL
+3313	Repair of electronic and optical equipment	C	NULL
+3314	Repair of electrical equipment	C	NULL
+3315	Repair of transport equipment, except motor vehicles	C	NULL
+3319	Repair of other equipment	C	NULL
+332	Installation of industrial machinery and equipment	C	NULL
+3320	Installation of industrial machinery and equipment	C	NULL
+D	Electricity, gas, steam and air conditioning supply	D	NULL
+35	Electricity, gas, steam and air conditioning supply	D	NULL
+351	Electric power generation, transmission and distribution	D	NULL
+3510	Electric power generation, transmission and distribution	D	NULL
+352	Manufacture of gas; distribution of gaseous fuels through mains	D	NULL
+3520	Manufacture of gas; distribution of gaseous fuels through mains	D	NULL
+353	Steam and air conditioning supply	D	NULL
+3530	Steam and air conditioning supply	D	NULL
+E	Water supply; sewerage, waste management and remediation activities	E	NULL
+36	Water collection, treatment and supply	E	NULL
+360	Water collection, treatment and supply	E	NULL
+3600	Water collection, treatment and supply	E	NULL
+37	Sewerage	E	NULL
+370	Sewerage	E	NULL
+3700	Sewerage	E	NULL
+38	Waste collection, treatment and disposal activities; materials recovery	E	NULL
+381	Waste collection	E	NULL
+3811	Collection of non-hazardous waste	E	NULL
+3812	Collection of hazardous waste	E	NULL
+382	Waste treatment and disposal	E	NULL
+3821	Treatment and disposal of non-hazardous waste	E	NULL
+3822	Treatment and disposal of hazardous waste	E	NULL
+383	Materials recovery	E	NULL
+3830	Materials recovery	E	NULL
+39	Remediation activities and other waste management services	E	NULL
+390	Remediation activities and other waste management services	E	NULL
+3900	Remediation activities and other waste management services	E	NULL
+F	Construction	E	NULL
+41	Construction of buildings	F	NULL
+410	Construction of buildings	F	NULL
+4100	Construction of buildings	F	NULL
+42	Civil engineering	F	NULL
+421	Construction of roads and railways	F	NULL
+4210	Construction of roads and railways	F	NULL
+422	Construction of utility projects	F	NULL
+4220	Construction of utility projects	F	NULL
+429	Construction of other civil engineering projects	F	NULL
+4290	Construction of other civil engineering projects	F	NULL
+43	Specialized construction activities	F	NULL
+431	Demolition and site preparation	F	NULL
+4311	Demolition	F	NULL
+4312	Site preparation	F	NULL
+432	Electrical, plumbing and other construction installation activities	F	NULL
+4321	Electrical installation	F	NULL
+4322	Plumbing, heat and air-conditioning installation	F	NULL
+4329	Other construction installation	F	NULL
+433	Building completion and finishing	F	NULL
+4330	Building completion and finishing	F	NULL
+439	Other specialized construction activities	F	NULL
+4390	Other specialized construction activities	F	NULL
+G	Wholesale and retail trade; repair of motor vehicles and motorcycles	G	NULL
+45	Wholesale and retail trade and repair of motor vehicles and motorcycles	G	NULL
+451	Sale of motor vehicles	G	NULL
+4510	Sale of motor vehicles	G	NULL
+452	Maintenance and repair of motor vehicles	G	NULL
+4520	Maintenance and repair of motor vehicles	G	NULL
+453	Sale of motor vehicle parts and accessories	G	NULL
+4530	Sale of motor vehicle parts and accessories	G	NULL
+454	Sale, maintenance and repair of motorcycles and related parts and accessories	G	NULL
+4540	Sale, maintenance and repair of motorcycles and related parts and accessories	G	NULL
+46	Wholesale trade, except of motor vehicles and motorcycles	G	NULL
+461	Wholesale on a fee or contract basis	G	NULL
+4610	Wholesale on a fee or contract basis	G	NULL
+462	Wholesale of agricultural raw materials and live animals	G	NULL
+4620	Wholesale of agricultural raw materials and live animals	G	NULL
+463	Wholesale of food, beverages and tobacco	G	NULL
+4630	Wholesale of food, beverages and tobacco	G	NULL
+464	Wholesale of household goods	G	NULL
+4641	Wholesale of textiles, clothing and footwear	G	NULL
+4649	Wholesale of other household goods	G	NULL
+465	Wholesale of machinery, equipment and supplies	G	NULL
+4651	Wholesale of computers, computer peripheral equipment and software	G	NULL
+4652	Wholesale of electronic and telecommunications equipment and parts	G	NULL
+4653	Wholesale of agricultural machinery, equipment and supplies	G	NULL
+4659	Wholesale of other machinery and equipment	G	NULL
+466	Other specialized wholesale	G	NULL
+4661	Wholesale of solid, liquid and gaseous fuels and related products	G	NULL
+4662	Wholesale of metals and metal ores	G	NULL
+4663	Wholesale of construction materials, hardware, plumbing and heating equipment and supplies	G	NULL
+4669	Wholesale of waste and scrap and other products n.e.c.	G	NULL
+469	Non-specialized wholesale trade	G	NULL
+4690	Non-specialized wholesale trade	G	NULL
+47	Retail trade, except of motor vehicles and motorcycles	G	NULL
+471	Retail sale in non-specialized stores	G	NULL
+4711	Retail sale in non-specialized stores with food, beverages or tobacco predominating	G	NULL
+4719	Other retail sale in non-specialized stores	G	NULL
+472	Retail sale of food, beverages and tobacco in specialized stores	G	NULL
+4721	Retail sale of food in specialized stores	G	NULL
+4722	Retail sale of beverages in specialized stores	G	NULL
+4723	Retail sale of tobacco products in specialized stores	G	NULL
+473	Retail sale of automotive fuel in specialized stores	G	NULL
+4730	Retail sale of automotive fuel in specialized stores	G	NULL
+474	Retail sale of information and communications equipment in specialized stores	G	NULL
+4741	Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores	G	NULL
+4742	Retail sale of audio and video equipment in specialized stores	G	NULL
+475	Retail sale of other household equipment in specialized stores	G	NULL
+4751	Retail sale of textiles in specialized stores	G	NULL
+4752	Retail sale of hardware, paints and glass in specialized stores	G	NULL
+4753	Retail sale of carpets, rugs, wall and floor coverings in specialized stores	G	NULL
+4759	Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores	G	NULL
+476	Retail sale of cultural and recreation goods in specialized stores	G	NULL
+4761	Retail sale of books, newspapers and stationary in specialized stores	G	NULL
+4762	Retail sale of music and video recordings in specialized stores	G	NULL
+4763	Retail sale of sporting equipment in specialized stores	G	NULL
+4764	Retail sale of games and toys in specialized stores	G	NULL
+477	Retail sale of other goods in specialized stores	G	NULL
+4771	Retail sale of clothing, footwear and leather articles in specialized stores	G	NULL
+4772	Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores	G	NULL
+4773	Other retail sale of new goods in specialized stores	G	NULL
+4774	Retail sale of second-hand goods	G	NULL
+478	Retail sale via stalls and markets	G	NULL
+4781	Retail sale via stalls and markets of food, beverages and tobacco products	G	NULL
+4782	Retail sale via stalls and markets of textiles, clothing and footwear	G	NULL
+4789	Retail sale via stalls and markets of other goods	G	NULL
+479	Retail trade not in stores, stalls or markets	G	NULL
+4791	Retail sale via mail order houses or via Internet	G	NULL
+4799	Other retail sale not in stores, stalls or markets	G	NULL
+H	Transportation and storage	H	NULL
+49	Land transport and transport via pipelines	H	NULL
+491	Transport via railways	H	NULL
+4911	Passenger rail transport, interurban	H	NULL
+4912	Freight rail transport	H	NULL
+492	Other land transport	H	NULL
+4921	Urban and suburban passenger land transport	H	NULL
+4922	Other passenger land transport	H	NULL
+4923	Freight transport by road	H	NULL
+493	Transport via pipeline	H	NULL
+4930	Transport via pipeline	H	NULL
+50	Water transport	H	NULL
+501	Sea and coastal water transport	H	NULL
+5011	Sea and coastal passenger water transport	H	NULL
+5012	Sea and coastal freight water transport	H	NULL
+502	Inland water transport	H	NULL
+5021	Inland passenger water transport	H	NULL
+5022	Inland freight water transport	H	NULL
+51	Air transport	H	NULL
+511	Passenger air transport	H	NULL
+5110	Passenger air transport	H	NULL
+512	Freight air transport	H	NULL
+5120	Freight air transport	H	NULL
+52	Warehousing and support activities for transportation	H	NULL
+521	Warehousing and storage	H	NULL
+5210	Warehousing and storage	H	NULL
+522	Support activities for transportation	H	NULL
+5221	Service activities incidental to land transportation	H	NULL
+5222	Service activities incidental to water transportation	H	NULL
+5223	Service activities incidental to air transportation	H	NULL
+5224	Cargo handling	H	NULL
+5229	Other transportation support activities	H	NULL
+53	Postal and courier activities	H	NULL
+531	Postal activities	H	NULL
+5310	Postal activities	H	NULL
+532	Courier activities	H	NULL
+5320	Courier activities	H	NULL
+I	Accommodation and food service activities	I	NULL
+55	Accommodation	I	NULL
+551	Short term accommodation activities	I	NULL
+5510	Short term accommodation activities	I	NULL
+552	Camping grounds, recreational vehicle parks and trailer parks	I	NULL
+5520	Camping grounds, recreational vehicle parks and trailer parks	I	NULL
+559	Other accommodation	I	NULL
+5590	Other accommodation	I	NULL
+56	Food and beverage service activities	I	NULL
+561	Restaurants and mobile food service activities	I	NULL
+5610	Restaurants and mobile food service activities	I	NULL
+562	Event catering and other food service activities	I	NULL
+5621	Event catering	I	NULL
+5629	Other food service activities	I	NULL
+563	Beverage serving activities	I	NULL
+5630	Beverage serving activities	I	NULL
+J	Information and communication	J	NULL
+58	Publishing activities	J	NULL
+581	Publishing of books, periodicals and other publishing activities	J	NULL
+5811	Book publishing	J	NULL
+5812	Publishing of directories and mailing lists	J	NULL
+5813	Publishing of newspapers, journals and periodicals	J	NULL
+5819	Other publishing activities	J	NULL
+582	Software publishing	J	NULL
+5820	Software publishing	J	NULL
+59	Motion picture, video and television programme production, sound recording and music publishing activities	J	NULL
+591	Motion picture, video and television programme activities	J	NULL
+5911	Motion picture, video and television programme production activities	J	NULL
+5912	Motion picture, video and television programme post-production activities	J	NULL
+5913	Motion picture, video and television programme distribution activities	J	NULL
+5914	Motion picture projection activities	J	NULL
+592	Sound recording and music publishing activities	J	NULL
+5920	Sound recording and music publishing activities	J	NULL
+60	Programming and broadcasting activities	J	NULL
+601	Radio broadcasting	J	NULL
+6010	Radio broadcasting	J	NULL
+602	Television programming and broadcasting activities	J	NULL
+6020	Television programming and broadcasting activities	J	NULL
+61	Telecommunications	J	NULL
+611	Wired telecommunications activities	J	NULL
+6110	Wired telecommunications activities	J	NULL
+612	Wireless telecommunications activities	J	NULL
+6120	Wireless telecommunications activities	J	NULL
+613	Satellite telecommunications activities	J	NULL
+6130	Satellite telecommunications activities	J	NULL
+619	Other telecommunications activities	J	NULL
+6190	Other telecommunications activities	J	NULL
+62	Computer programming, consultancy and related activities	J	NULL
+620	Computer programming, consultancy and related activities	J	NULL
+6201	Computer programming activities	J	NULL
+6202	Computer consultancy and computer facilities management activities	J	NULL
+6209	Other information technology and computer service activities	J	NULL
+63	Information service activities	J	NULL
+631	Data processing, hosting and related activities; web portals	J	NULL
+6311	Data processing, hosting and related activities	J	NULL
+6312	Web portals	J	NULL
+639	Other information service activities	J	NULL
+6391	News agency activities	J	NULL
+6399	Other information service activities n.e.c.	J	NULL
+K	Financial and insurance activities	K	NULL
+64	Financial service activities, except insurance and pension funding	K	NULL
+641	Monetary intermediation	K	NULL
+6411	Central banking	K	NULL
+6419	Other monetary intermediation	K	NULL
+642	Activities of holding companies	K	NULL
+6420	Activities of holding companies	K	NULL
+643	Trusts, funds and similar financial entities	K	NULL
+6430	Trusts, funds and similar financial entities	K	NULL
+649	Other financial service activities, except insurance and pension funding activities	K	NULL
+6491	Financial leasing	K	NULL
+6492	Other credit granting	K	NULL
+6499	Other financial service activities, except insurance and pension funding activities, n.e.c.	K	NULL
+65	Insurance, reinsurance and pension funding, except compulsory social security	K	NULL
+651	Insurance	K	NULL
+6511	Life insurance	K	NULL
+6512	Non-life insurance	K	NULL
+652	Reinsurance	K	NULL
+6520	Reinsurance	K	NULL
+653	Pension funding	K	NULL
+6530	Pension funding	K	NULL
+66	Activities auxiliary to financial service and insurance activities	K	NULL
+661	Activities auxiliary to financial service activities, except insurance and pension funding	K	NULL
+6611	Administration of financial markets	K	NULL
+6612	Security and commodity contracts brokerage	K	NULL
+6619	Other activities auxiliary to financial service activities	K	NULL
+662	Activities auxiliary to insurance and pension funding	K	NULL
+6621	Risk and damage evaluation	K	NULL
+6622	Activities of insurance agents and brokers	K	NULL
+6629	Other activities auxiliary to insurance and pension funding	K	NULL
+663	Fund management activities	K	NULL
+6630	Fund management activities	K	NULL
+L	Real estate activities	L	NULL
+68	Real estate activities	L	NULL
+681	Real estate activities with own or leased property	L	NULL
+6810	Real estate activities with own or leased property	L	NULL
+682	Real estate activities on a fee or contract basis	L	NULL
+6820	Real estate activities on a fee or contract basis	L	NULL
+M	Professional, scientific and technical activities	M	NULL
+69	Legal and accounting activities	M	NULL
+691	Legal activities	M	NULL
+6910	Legal activities	M	NULL
+692	Accounting, bookkeeping and auditing activities; tax consultancy	M	NULL
+6920	Accounting, bookkeeping and auditing activities; tax consultancy	M	NULL
+70	Activities of head offices; management consultancy activities	M	NULL
+701	Activities of head offices	M	NULL
+7010	Activities of head offices	M	NULL
+702	Management consultancy activities	M	NULL
+7020	Management consultancy activities	M	NULL
+71	Architectural and engineering activities; technical testing and analysis	M	NULL
+711	Architectural and engineering activities and related technical consultancy	M	NULL
+7110	Architectural and engineering activities and related technical consultancy	M	NULL
+712	Technical testing and analysis	M	NULL
+7120	Technical testing and analysis	M	NULL
+72	Scientific research and development	M	NULL
+721	Research and experimental development on natural sciences and engineering	M	NULL
+7210	Research and experimental development on natural sciences and engineering	M	NULL
+722	Research and experimental development on social sciences and humanities	M	NULL
+7220	Research and experimental development on social sciences and humanities	M	NULL
+73	Advertising and market research	M	NULL
+731	Advertising	M	NULL
+7310	Advertising	M	NULL
+732	Market research and public opinion polling	M	NULL
+7320	Market research and public opinion polling	M	NULL
+74	Other professional, scientific and technical activities	M	NULL
+741	Specialized design activities	M	NULL
+7410	Specialized design activities	M	NULL
+742	Photographic activities	M	NULL
+7420	Photographic activities	M	NULL
+749	Other professional, scientific and technical activities n.e.c.	M	NULL
+7490	Other professional, scientific and technical activities n.e.c.	M	NULL
+75	Veterinary activities	M	NULL
+750	Veterinary activities	M	NULL
+7500	Veterinary activities	M	NULL
+N	Administrative and support service activities	N	NULL
+77	Rental and leasing activities	N	NULL
+771	Renting and leasing of motor vehicles	N	NULL
+7710	Renting and leasing of motor vehicles	N	NULL
+772	Renting and leasing of personal and household goods	N	NULL
+7721	Renting and leasing of recreational and sports goods	N	NULL
+7722	Renting of video tapes and disks	N	NULL
+7729	Renting and leasing of other personal and household goods	N	NULL
+773	Renting and leasing of other machinery, equipment and tangible goods	N	NULL
+7730	Renting and leasing of other machinery, equipment and tangible goods	N	NULL
+774	Leasing of intellectual property and similar products, except copyrighted works	N	NULL
+7740	Leasing of intellectual property and similar products, except copyrighted works	N	NULL
+78	Employment activities	N	NULL
+781	Activities of employment placement agencies	N	NULL
+7810	Activities of employment placement agencies	N	NULL
+782	Temporary employment agency activities	N	NULL
+7820	Temporary employment agency activities	N	NULL
+783	Other human resources provision	N	NULL
+7830	Other human resources provision	N	NULL
+79	Travel agency, tour operator, reservation service and related activities	N	NULL
+791	Travel agency and tour operator activities	N	NULL
+7911	Travel agency activities	N	NULL
+7912	Tour operator activities	N	NULL
+799	Other reservation service and related activities	N	NULL
+7990	Other reservation service and related activities	N	NULL
+80	Security and investigation activities	N	NULL
+801	Private security activities	N	NULL
+8010	Private security activities	N	NULL
+802	Security systems service activities	N	NULL
+8020	Security systems service activities	N	NULL
+803	Investigation activities	N	NULL
+8030	Investigation activities	N	NULL
+81	Services to buildings and landscape activities	N	NULL
+811	Combined facilities support activities	N	NULL
+8110	Combined facilities support activities	N	NULL
+812	Cleaning activities	N	NULL
+8121	General cleaning of buildings	N	NULL
+8129	Other building and industrial cleaning activities	N	NULL
+813	Landscape care and maintenance service activities	N	NULL
+8130	Landscape care and maintenance service activities	N	NULL
+82	Office administrative, office support and other business support activities	N	NULL
+821	Office administrative and support activities	N	NULL
+8211	Combined office administrative service activities	N	NULL
+8219	Photocopying, document preparation and other specialized office support activities	N	NULL
+822	Activities of call centres	N	NULL
+8220	Activities of call centres	N	NULL
+823	Organization of conventions and trade shows	N	NULL
+8230	Organization of conventions and trade shows	N	NULL
+829	Business support service activities n.e.c.	N	NULL
+8291	Activities of collection agencies and credit bureaus	N	NULL
+8292	Packaging activities	N	NULL
+8299	Other business support service activities n.e.c.	N	NULL
+O	Public administration and defence; compulsory social security	O	NULL
+84	Public administration and defence; compulsory social security	O	NULL
+841	Administration of the State and the economic and social policy of the community	O	NULL
+8411	General public administration activities	O	NULL
+8412	Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security	O	NULL
+8413	Regulation of and contribution to more efficient operation of businesses	O	NULL
+842	Provision of services to the community as a whole	O	NULL
+8421	Foreign affairs	O	NULL
+8422	Defence activities	O	NULL
+8423	Public order and safety activities	O	NULL
+843	Compulsory social security activities	O	NULL
+8430	Compulsory social security activities	O	NULL
+P	Education	P	NULL
+85	Education	P	NULL
+851	Pre-primary and primary education	P	NULL
+8510	Pre-primary and primary education	P	NULL
+852	Secondary education	P	NULL
+8521	General secondary education	P	NULL
+8522	Technical and vocational secondary education	P	NULL
+853	Higher education	P	NULL
+8530	Higher education	P	NULL
+854	Other education	P	NULL
+8541	Sports and recreation education	P	NULL
+8542	Cultural education	P	NULL
+8549	Other education n.e.c.	P	NULL
+855	Educational support activities	P	NULL
+8550	Educational support activities	P	NULL
+Q	Human health and social work activities	Q	NULL
+86	Human health activities	Q	NULL
+861	Hospital activities	Q	NULL
+8610	Hospital activities	Q	NULL
+862	Medical and dental practice activities	Q	NULL
+8620	Medical and dental practice activities	Q	NULL
+869	Other human health activities	Q	NULL
+8690	Other human health activities	Q	NULL
+87	Residential care activities	Q	NULL
+871	Residential nursing care facilities	Q	NULL
+8710	Residential nursing care facilities	Q	NULL
+872	Residential care activities for mental retardation, mental health and substance abuse	Q	NULL
+8720	Residential care activities for mental retardation, mental health and substance abuse	Q	NULL
+873	Residential care activities for the elderly and disabled	Q	NULL
+8730	Residential care activities for the elderly and disabled	Q	NULL
+879	Other residential care activities	Q	NULL
+8790	Other residential care activities	Q	NULL
+88	Social work activities without accommodation	Q	NULL
+881	Social work activities without accommodation for the elderly and disabled	Q	NULL
+8810	Social work activities without accommodation for the elderly and disabled	Q	NULL
+889	Other social work activities without accommodation	Q	NULL
+8890	Other social work activities without accommodation	Q	NULL
+R	Arts, entertainment and recreation	R	NULL
+90	Creative, arts and entertainment activities	R	NULL
+900	Creative, arts and entertainment activities	R	NULL
+9000	Creative, arts and entertainment activities	R	NULL
+91	Libraries, archives, museums and other cultural activities	R	NULL
+910	Libraries, archives, museums and other cultural activities	R	NULL
+9101	Library and archives activities	R	NULL
+9102	Museums activities and operation of historical sites and buildings	R	NULL
+9103	Botanical and zoological gardens and nature reserves activities	R	NULL
+92	Gambling and betting activities	R	NULL
+920	Gambling and betting activities	R	NULL
+9200	Gambling and betting activities	R	NULL
+93	Sports activities and amusement and recreation activities	R	NULL
+931	Sports activities	R	NULL
+9311	Operation of sports facilities	R	NULL
+9312	Activities of sports clubs	R	NULL
+9319	Other sports activities	R	NULL
+932	Other amusement and recreation activities	R	NULL
+9321	Activities of amusement parks and theme parks	R	NULL
+9329	Other amusement and recreation activities n.e.c.	R	NULL
+S	Other service activities	S	NULL
+94	Activities of membership organizations	S	NULL
+941	Activities of business, employers and professional membership organizations	S	NULL
+9411	Activities of business and employers membership organizations	S	NULL
+9412	Activities of professional membership organizations	S	NULL
+942	Activities of trade unions	S	NULL
+9420	Activities of trade unions	S	NULL
+949	Activities of other membership organizations	S	NULL
+9491	Activities of religious organizations	S	NULL
+9492	Activities of political organizations	S	NULL
+9499	Activities of other membership organizations n.e.c.	S	NULL
+95	Repair of computers and personal and household goods	S	NULL
+951	Repair of computers and communication equipment	S	NULL
+9511	Repair of computers and peripheral equipment	S	NULL
+9512	Repair of communication equipment	S	NULL
+952	Repair of personal and household goods	S	NULL
+9521	Repair of consumer electronics	S	NULL
+9522	Repair of household appliances and home and garden equipment	S	NULL
+9523	Repair of footwear and leather goods	S	NULL
+9524	Repair of furniture and home furnishings	S	NULL
+9529	Repair of other personal and household goods	S	NULL
+96	Other personal service activities	S	NULL
+960	Other personal service activities	S	NULL
+9601	Washing and (dry-) cleaning of textile and fur products	S	NULL
+9602	Hairdressing and other beauty treatment	S	NULL
+9603	Funeral and related activities	S	NULL
+9609	Other personal service activities n.e.c.	S	NULL
+T	Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use	T	NULL
+97	Activities of households as employers of domestic personnel	T	NULL
+970	Activities of households as employers of domestic personnel	T	NULL
+9700	Activities of households as employers of domestic personnel	T	NULL
+98	Undifferentiated goods- and services-producing activities of private households for own use	T	NULL
+981	Undifferentiated goods-producing activities of private households for own use	T	NULL
+9810	Undifferentiated goods-producing activities of private households for own use	T	NULL
+982	Undifferentiated service-producing activities of private households for own use	T	NULL
+9820	Undifferentiated service-producing activities of private households for own use	T	NULL
+U	Activities of extraterritorial organizations and bodies	U	NULL
+99	Activities of extraterritorial organizations and bodies	U	NULL
+990	Activities of extraterritorial organizations and bodies	U	NULL
+9900	Activities of extraterritorial organizations and bodies	U	NULL
+ 	NULL	NULL	NULL
+0000	Unknown Activity	0	NULL

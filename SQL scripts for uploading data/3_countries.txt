@@ -1,0 +1,241 @@
+﻿Code	IsDeleted	IsoCode	Name
+ALA	0	248	AALAND ISLANDS                                
+AFG	0	4	AFGHANISTAN                                   
+ALB	0	8	ALBANIA                                       
+DZA	0	12	ALGERIA                                       
+ASM	0	16	AMERICAN SAMOA                                
+AND	0	20	ANDORRA                                       
+AGO	0	24	ANGOLA                                        
+AIA	0	660	ANGUILLA                                      
+ATA	0	10	ANTARCTICA                                    
+ATG	0	28	ANTIGUA AND BARBUDA                           
+ARG	0	32	ARGENTINA                                     
+ARM	0	51	ARMENIA                                       
+ABW	0	533	ARUBA                                         
+AUS	0	36	AUSTRALIA                                     
+AUT	0	40	AUSTRIA                                       
+AZE	0	31	AZERBAIJAN                                    
+BHS	0	44	BAHAMAS                                       
+BHR	0	48	BAHRAIN                                       
+BGD	0	50	BANGLADESH                                    
+BRB	0	52	BARBADOS                                      
+BLR	0	112	BELARUS                                       
+BEL	0	56	BELGIUM                                       
+BLZ	0	84	BELIZE                                        
+BEN	0	204	BENIN                                         
+BMU	0	60	BERMUDA                                       
+BTN	0	64	BHUTAN                                        
+BOL	0	68	BOLIVIA                                       
+BIH	0	70	BOSNIA AND HERZEGOWINA                        
+BWA	0	72	BOTSWANA                                      
+BVT	0	74	BOUVET ISLAND                                 
+BRA	0	76	BRAZIL                                        
+IOT	0	86	BRITISH INDIAN OCEAN TERRITORY                
+BRN	0	96	BRUNEI DARUSSALAM                             
+BGR	0	100	BULGARIA                                      
+BFA	0	854	BURKINA FASO                                  
+BDI	0	108	BURUNDI                                       
+KHM	0	116	CAMBODIA                                      
+CMR	0	120	CAMEROON                                      
+CAN	0	124	CANADA                                        
+CPV	0	132	CAPE VERDE                                    
+CYM	0	136	CAYMAN ISLANDS                                
+CAF	0	140	CENTRAL AFRICAN REPUBLIC                      
+TCD	0	148	CHAD                                          
+CHL	0	152	CHILE                                         
+CHN	0	156	CHINA                                         
+CXR	0	162	CHRISTMAS ISLAND                              
+CCK	0	166	COCOS (KEELING) ISLANDS                       
+COL	0	170	COLOMBIA                                      
+COM	0	174	COMOROS                                       
+COD	0	180	CONGO, Democratic Republic of (was Zaire)     
+COG	0	178	CONGO, Republic of                            
+COK	0	184	COOK ISLANDS                                  
+CRI	0	188	COSTA RICA                                    
+CIV	0	384	COTE D'IVOIRE                                 
+HRV	0	191	CROATIA (local name: Hrvatska)                
+CUB	0	192	CUBA                                          
+CYP	0	196	CYPRUS                                        
+CZE	0	203	CZECH REPUBLIC                                
+DNK	0	208	DENMARK                                       
+DJI	0	262	DJIBOUTI                                      
+DMA	0	212	DOMINICA                                      
+DOM	0	214	DOMINICAN REPUBLIC                            
+ECU	0	218	ECUADOR                                       
+EGY	0	818	EGYPT                                         
+SLV	0	222	EL SALVADOR                                   
+GNQ	0	226	EQUATORIAL GUINEA                             
+ERI	0	232	ERITREA                                       
+EST	0	233	ESTONIA                                       
+ETH	0	231	ETHIOPIA                                      
+FLK	0	238	FALKLAND ISLANDS (MALVINAS)                   
+FRO	0	234	FAROE ISLANDS                                 
+FJI	0	242	FIJI                                          
+FIN	0	246	FINLAND                                       
+FRA	0	250	FRANCE                                        
+GUF	0	254	FRENCH GUIANA                                 
+PYF	0	258	FRENCH POLYNESIA                              
+ATF	0	260	FRENCH SOUTHERN TERRITORIES                   
+GAB	0	266	GABON                                         
+GMB	0	270	GAMBIA                                        
+GEO	0	268	GEORGIA                                       
+DEU	0	276	GERMANY                                       
+GHA	0	288	GHANA                                         
+GIB	0	292	GIBRALTAR                                     
+GRC	0	300	GREECE                                        
+GRL	0	304	GREENLAND                                     
+GRD	0	308	GRENADA                                       
+GLP	0	312	GUADELOUPE                                    
+GUM	0	316	GUAM                                          
+GTM	0	320	GUATEMALA                                     
+GIN	0	324	GUINEA                                        
+GNB	0	624	GUINEA-BISSAU                                 
+GUY	0	328	GUYANA                                        
+HTI	0	332	HAITI                                         
+HMD	0	334	HEARD AND MC DONALD ISLANDS                   
+HND	0	340	HONDURAS                                      
+HKG	0	344	HONG KONG                                     
+HUN	0	348	HUNGARY                                       
+ISL	0	352	ICELAND                                       
+IND	0	356	INDIA                                         
+IDN	0	360	INDONESIA                                     
+IRN	0	364	IRAN (ISLAMIC REPUBLIC OF)                    
+IRQ	0	368	IRAQ                                          
+IRL	0	372	IRELAND                                       
+ISR	0	376	ISRAEL                                        
+ITA	0	380	ITALY                                         
+JAM	0	388	JAMAICA                                       
+JPN	0	392	JAPAN                                         
+JOR	0	400	JORDAN                                        
+KAZ	0	398	KAZAKHSTAN                                    
+KEN	0	404	KENYA                                         
+KIR	0	296	KIRIBATI                                      
+PRK	0	408	KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF        
+KOR	0	410	KOREA, REPUBLIC OF                            
+KWT	0	414	KUWAIT                                        
+KGZ	0	417	KYRGYZSTAN                                    
+LAO	0	418	LAO PEOPLE'S DEMOCRATIC REPUBLIC              
+LVA	0	428	LATVIA                                        
+LBN	0	422	LEBANON                                       
+LSO	0	426	LESOTHO                                       
+LBR	0	430	LIBERIA                                       
+LBY	0	434	LIBYAN ARAB JAMAHIRIYA                        
+LIE	0	438	LIECHTENSTEIN                                 
+LTU	0	440	LITHUANIA                                     
+LUX	0	442	LUXEMBOURG                                    
+MAC	0	446	MACAU                                         
+MKD	0	807	MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF    
+MDG	0	450	MADAGASCAR                                    
+MWI	0	454	MALAWI                                        
+MYS	0	458	MALAYSIA                                      
+MDV	0	462	MALDIVES                                      
+MLI	0	466	MALI                                          
+MLT	0	470	MALTA                                         
+MHL	0	584	MARSHALL ISLANDS                              
+MTQ	0	474	MARTINIQUE                                    
+MRT	0	478	MAURITANIA                                    
+MUS	0	480	MAURITIUS                                     
+MYT	0	175	MAYOTTE                                       
+MEX	0	484	MEXICO                                        
+FSM	0	583	MICRONESIA, FEDERATED STATES OF               
+MDA	0	498	MOLDOVA, REPUBLIC OF                          
+MCO	0	492	MONACO                                        
+MNG	0	496	MONGOLIA                                      
+MSR	0	500	MONTSERRAT                                    
+MAR	0	504	MOROCCO                                       
+MOZ	0	508	MOZAMBIQUE                                    
+MMR	0	104	MYANMAR                                       
+NAM	0	516	NAMIBIA                                       
+NRU	0	520	NAURU                                         
+NPL	0	524	NEPAL                                         
+NLD	0	528	NETHERLANDS                                   
+ANT	0	530	NETHERLANDS ANTILLES                          
+NCL	0	540	NEW CALEDONIA                                 
+NZL	0	554	NEW ZEALAND                                   
+NIC	0	558	NICARAGUA                                     
+NER	0	562	NIGER                                         
+NGA	0	566	NIGERIA                                       
+NIU	0	570	NIUE                                          
+NFK	0	574	NORFOLK ISLAND                                
+MNP	0	580	NORTHERN MARIANA ISLANDS                      
+NOR	0	578	NORWAY                                        
+OMN	0	512	OMAN                                          
+PAK	0	586	PAKISTAN                                      
+PLW	0	585	PALAU                                         
+PSE	0	275	PALESTINIAN TERRITORY, Occupied               
+PAN	0	591	PANAMA                                        
+PNG	0	598	PAPUA NEW GUINEA                              
+PRY	0	600	PARAGUAY                                      
+PER	0	604	PERU                                          
+PHL	0	608	PHILIPPINES                                   
+PCN	0	612	PITCAIRN                                      
+POL	0	616	POLAND                                        
+PRT	0	620	PORTUGAL                                      
+PRI	0	630	PUERTO RICO                                   
+QAT	0	634	QATAR                                         
+REU	0	638	REUNION                                       
+ROU	0	642	ROMANIA                                       
+RUS	0	643	RUSSIAN FEDERATION                            
+RWA	0	646	RWANDA                                        
+SHN	0	654	SAINT HELENA                                  
+KNA	0	659	SAINT KITTS AND NEVIS                         
+LCA	0	662	SAINT LUCIA                                   
+SPM	0	666	SAINT PIERRE AND MIQUELON                     
+VCT	0	670	SAINT VINCENT AND THE GRENADINES              
+WSM	0	882	SAMOA                                         
+SMR	0	674	SAN MARINO                                    
+STP	0	678	SAO TOME AND PRINCIPE                         
+SAU	0	682	SAUDI ARABIA                                  
+SEN	0	686	SENEGAL                                       
+SCG	0	891	SERBIA AND MONTENEGRO                         
+SYC	0	690	SEYCHELLES                                    
+SLE	0	694	SIERRA LEONE                                  
+SGP	0	702	SINGAPORE                                     
+SVK	0	703	SLOVAKIA                                      
+SVN	0	705	SLOVENIA                                      
+SLB	0	90	SOLOMON ISLANDS                               
+SOM	0	706	SOMALIA                                       
+ZAF	0	710	SOUTH AFRICA                                  
+SGS	0	239	SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS  
+ESP	0	724	SPAIN                                         
+LKA	0	144	SRI LANKA                                     
+SDN	0	736	SUDAN                                         
+SUR	0	740	SURINAME                                      
+SJM	0	744	SVALBARD AND JAN MAYEN ISLANDS                
+SWZ	0	748	SWAZILAND                                     
+SWE	0	752	SWEDEN                                        
+CHE	0	756	SWITZERLAND                                   
+SYR	0	760	SYRIAN ARAB REPUBLIC                          
+TWN	0	158	TAIWAN                                        
+TJK	0	762	TAJIKISTAN                                    
+TZA	0	834	TANZANIA, UNITED REPUBLIC OF                  
+THA	0	764	THAILAND                                      
+TLS	0	626	TIMOR-LESTE                                   
+TGO	0	768	TOGO                                          
+TKL	0	772	TOKELAU                                       
+TON	0	776	TONGA                                         
+TTO	0	780	TRINIDAD AND TOBAGO                           
+TUN	0	788	TUNISIA                                       
+TUR	0	792	TURKEY                                        
+TKM	0	795	TURKMENISTAN                                  
+TCA	0	796	TURKS AND CAICOS ISLANDS                      
+TUV	0	798	TUVALU                                        
+UGA	0	800	UGANDA                                        
+UKR	0	804	UKRAINE                                       
+ARE	0	784	UNITED ARAB EMIRATES                          
+GBR	0	826	UNITED KINGDOM                                
+USA	0	840	UNITED STATES                                 
+UMI	0	581	UNITED STATES MINOR OUTLYING ISLANDS          
+URY	0	858	URUGUAY                                       
+UZB	0	860	UZBEKISTAN                                    
+VUT	0	548	VANUATU                                       
+VAT	0	336	VATICAN CITY STATE (HOLY SEE)                 
+VEN	0	862	VENEZUELA                                     
+VNM	0	704	VIET NAM                                      
+VGB	0	92	VIRGIN ISLANDS (BRITISH)                      
+VIR	0	850	VIRGIN ISLANDS (U.S.)                         
+WLF	0	876	WALLIS AND FUTUNA ISLANDS                     
+ESH	0	732	WESTERN SAHARA                                
+YEM	0	887	YEMEN                                         
+ZMB	0	894	ZAMBIA                                        
+ZWE	0	716	ZIMBABWE                                      
